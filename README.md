@@ -1,2 +1,2 @@
 # minecraft
-mcfunction
+timer command mcfunction
