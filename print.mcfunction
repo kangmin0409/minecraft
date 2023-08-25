@@ -1,0 +1,1 @@
+title @a subtitle [{"text":"걸린 시간 : ","color":"yellow","bold":"true"},{"score":{"name":"@a[tag=timer]","objective":"1timer"},"color":"green","bold":"true"},{"text":".","color":"green"},{"score":{"name":"@a[tag=timer]","objective":"1timerti"},"color":"green","bold":"true"}]
